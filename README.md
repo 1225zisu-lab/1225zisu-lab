@@ -15,7 +15,6 @@
 - CAD: **SolidWorks · CATIA · AutoCAD**
 - Current focus:
   - ✅ Structural-Health-Monitoring (vision-based)
-  - ✅ Crack-Detection-Tool
   - ✅ Hydrogen turbine blade thermal design (research report)
 
 ---
@@ -46,13 +45,6 @@
 - Dassault **Aakruti** participant
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1225zisu-lab&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1225zisu-lab&layout=compact" />
-</p>
-
 <!-- Optional: activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1225zisu-lab&hide_border=true" />
@@ -61,7 +53,7 @@
 ---
 
 ## 🤝 Connect
-Email: _add yours here_  
-LinkedIn: _add yours here_
+Email: omray02@gmail.com  
+LinkedIn: www.linkedin.com/in/ray-om1225
 
 <p align="center">✨ Always learning. Always building. ✨</p>
