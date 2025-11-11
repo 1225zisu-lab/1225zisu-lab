@@ -51,6 +51,12 @@
 </p>
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000)
+
 
 ## 🤝 Connect
 Email: omray02@gmail.com  
