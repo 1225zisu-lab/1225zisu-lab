@@ -123,6 +123,7 @@ Passionate mechanical engineer building intelligent systems at the intersection 
 ## 🤝 Connect
 
 📫 Email → om.ray2255@gmail.com <br>
-🔗 LinkedIn → www.linkedin.com/in/ray-om1225 
+🔗 LinkedIn → www.linkedin.com/in/ray-om1225 <br>
+🔗 Web → https://om-ray.netlify.app/
 
 <p align="center">⚡ <strong>Always learning. Always building.</strong> ⚡</p>
